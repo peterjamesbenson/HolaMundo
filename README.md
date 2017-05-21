@@ -1,2 +1,4 @@
 # HolaMundo
-Newbie Repository
+Newbie Repository.
+LearningLearningLearning.
+Soon will be my time!!!
